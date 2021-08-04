@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... Human Rights First - Asylum project
+- 🔭 I’m currently working on ... Tip-Calculator
 - 🌱 I’m currently learning ... As much as I can, all the time!
 - 👯 I’m looking to collaborate on ... Full stack web applications
 - 🤔 I’m looking for help with ... Backend technologies
